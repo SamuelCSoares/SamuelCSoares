@@ -6,6 +6,6 @@
 
 ## Estatísticas GitHub
 <div>
-<a href="https://github.com/SamuCostaSoares">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=SamuCostaSoares&theme=blue-green"/> 
+<a href="https://github.com/SamuelCSoares">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=SamuelCSoares&theme=blue-green"/> 
 </div>
